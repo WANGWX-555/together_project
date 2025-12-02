@@ -5,5 +5,6 @@ int main(){
     printf("uu");
     printf("yeah!!!!!!");
     printf("we won't fail!!!");
+    printf("yes!!");
     return 0;
 }
